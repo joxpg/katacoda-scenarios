@@ -10,7 +10,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<docker.image.prefix>springio</docker.image.prefix>
-		<sprint.boot.version>2.3.2.RELEASE</sprint.boot.version>
+		<sprint.boot.version>2.5.12</sprint.boot.version>
 		<dockerfile-maven-version>1.4.13</dockerfile-maven-version>
 	</properties>
 	<parent>
